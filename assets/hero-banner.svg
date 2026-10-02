@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" width="1600" height="300" role="img" aria-label="Deepesh Chaurasia - Full-stack and AI computer vision developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111a2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36bcf7"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="namegrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9d6e5"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0.1" cy="0.1" r="0.5">
+      <stop offset="0" stop-color="#36bcf7" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#36bcf7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.86" cy="0.2" r="0.55">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="300" fill="url(#bg)"/>
+  <rect width="1600" height="300" fill="url(#grid)"/>
+  <rect width="1600" height="300" fill="url(#glowCyan)"/>
+  <rect width="1600" height="300" fill="url(#glowViolet)"/>
+
+  <rect x="-360" y="0" width="300" height="300" fill="url(#shine)" transform="skewX(-16)">
+    <animate attributeName="x" from="-360" to="1660" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect width="1600" height="4" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="70" y="84" font-size="15" letter-spacing="4" fill="#36bcf7" font-family="Consolas, 'Courier New', monospace">GITHUB.COM/DEEPSH3969</text>
+
+    <text x="70" y="150" font-size="46" font-weight="700" fill="url(#namegrad)">Deepesh Chaurasia</text>
+
+    <text x="70" y="190" font-size="18" fill="#9fb0c3">Full-Stack Developer  ·  AI &amp; Computer Vision</text>
+
+    <g font-size="14" text-anchor="middle">
+      <rect x="70"  y="218" width="72"  height="30" rx="15" fill="#36bcf7" fill-opacity="0.12" stroke="#36bcf7" stroke-opacity="0.45"/>
+      <text x="106" y="238" fill="#36bcf7">React</text>
+
+      <rect x="152" y="218" width="104" height="30" rx="15" fill="#8b5cf6" fill-opacity="0.14" stroke="#8b5cf6" stroke-opacity="0.5"/>
+      <text x="204" y="238" fill="#b9a6ff">TypeScript</text>
+
+      <rect x="266" y="218" width="84"  height="30" rx="15" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.45"/>
+      <text x="308" y="238" fill="#7ff0a8">Python</text>
+
+      <rect x="360" y="218" width="88"  height="30" rx="15" fill="#009688" fill-opacity="0.14" stroke="#009688" stroke-opacity="0.5"/>
+      <text x="404" y="238" fill="#63d9cf">FastAPI</text>
+
+      <rect x="458" y="218" width="78"  height="30" rx="15" fill="#2496ed" fill-opacity="0.14" stroke="#2496ed" stroke-opacity="0.5"/>
+      <text x="497" y="238" fill="#7ec4ff">Docker</text>
+    </g>
+  </g>
+
+  <rect x="879" y="72" width="2" height="156" rx="1" fill="url(#accent)" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g>
+    <rect x="940" y="55" width="590" height="190" rx="14" fill="#0d1117" stroke="#1f2a3a" stroke-width="1.5"/>
+
+    <circle cx="968" cy="84" r="6" fill="#ff5f56"/>
+    <circle cx="990" cy="84" r="6" fill="#ffbd2e"/>
+    <circle cx="1012" cy="84" r="6" fill="#27c93f"/>
+    <text x="1034" y="89" font-size="14" fill="#6e7681" font-family="Consolas, 'Courier New', monospace">profile.ts</text>
+
+    <line x1="940" y1="106" x2="1530" y2="106" stroke="#1f2a3a" stroke-width="1.5"/>
+
+    <g font-size="17" font-family="Consolas, 'Courier New', monospace">
+      <text x="972" y="134" fill="#ff7b72">const dev = {</text>
+      <text x="972" y="159" fill="#a5d6ff">  name: "Deepesh",</text>
+      <text x="972" y="184" fill="#7ee787">  stack: ["React", "AI"],</text>
+      <text x="972" y="209" fill="#d2a8ff">  learning: true,</text>
+      <text x="972" y="234" fill="#ff7b72">}</text>
+    </g>
+
+    <rect x="984" y="220" width="10" height="17" fill="#36bcf7">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

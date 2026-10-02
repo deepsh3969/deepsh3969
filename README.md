@@ -5,15 +5,15 @@
  Replace each "#" placeholder below with the real URL, then
  update the matching href="#" in the sections that follow.
 
- PORTFOLIO_URL      = #
  LINKEDIN_URL       = #
- HACKERRANK_URL     = #
  LEETCODE_URL       = #
+ HACKERRANK_URL     = #
  POSTMAN_URL        = #
  YOUTUBE_URL        = #
  MEDIUM_URL         = #
  STACKOVERFLOW_URL  = #
  BUYMEACOFFEE_URL   = #
+ PORTFOLIO_URL      = #
 
  BLOG FEED (Latest Blog Posts section)
  FEED_URL           = #
@@ -27,11 +27,13 @@
 -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Deepesh Chaurasia - developer banner" width="100%" />
+  <img src="assets/hero-banner.svg" alt="Deepesh Chaurasia - developer banner" width="100%" />
 
   <h1>Hi, I'm Deepesh 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+Full-Stack+Web+Apps;Exploring+AI+%26+Computer+Vision;B.Tech+Computer+Engineering+Student;Always+Learning+Something+New" alt="Typing introduction" />
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Full+Stack+Developer;AI+%26+Computer+Vision+Explorer;Building+Real-World+Projects;Open+Source+Enthusiast;Always+Learning.+Always+Building." alt="Typing animation: Full Stack Developer, AI and Computer Vision Explorer, Building Real-World Projects, Open Source Enthusiast, Always Learning. Always Building." />
+  </a>
 
   <p>
     B.Tech Computer Engineering student building <b>full-stack web applications</b><br />
@@ -44,6 +46,8 @@
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=36BCF7" alt="Portfolio - add URL" /></a>
   </p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:8B5CF6&amp;height=90&amp;section=header" alt="Section divider" />
 
 ## 👨‍💻 About Me
 
@@ -133,10 +137,10 @@
 ### Frontend
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" title="HTML" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" title="CSS" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
@@ -203,7 +207,69 @@
 </tr>
 </table>
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### CyberVerse-AI
+
+AI-powered 3D cybersecurity command center - React and Three.js frontend with a FastAPI + scikit-learn backend.
+
+`React` `Three.js` `FastAPI` `scikit-learn` `Docker`
+
+<a href="https://github.com/deepsh3969/CyberVerse-AI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="CyberVerse-AI on GitHub" /></a>
+<a href="https://cyberverse-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat&amp;logo=vercel&amp;logoColor=white" alt="CyberVerse-AI live demo" /></a>
+
+</td>
+<td width="50%">
+
+### Nokia Snake - Gesture AI
+
+Play the classic Snake game with real hand gestures through a webcam - desktop (Python) and browser editions.
+
+`Python` `OpenCV` `MediaPipe` `JavaScript`
+
+<a href="https://github.com/deepsh3969/Nokia_Snake-V4"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Nokia Snake Gesture AI on GitHub" /></a>
+<a href="https://nokia-snake-gesture-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Nokia Snake Gesture AI live demo" /></a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%">
+
+### TYPESENSE
+
+Typing-speed test and personalised typing-learning app that analyses every keystroke to target your weak spots.
+
+`React` `TypeScript` `Supabase` `Tailwind CSS`
+
+<a href="https://github.com/deepsh3969/TYPESENSE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="TYPESENSE on GitHub" /></a>
+<a href="https://typesense-delta.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat&amp;logo=vercel&amp;logoColor=white" alt="TYPESENSE live demo" /></a>
+
+</td>
+<td width="50%">
+
+### FreshTrack
+
+AI food-freshness detection app that scores quality from images and returns safety insights, vendor ratings and smart recommendations.
+
+`React` `TypeScript` `Firebase` `Vite`
+
+<a href="https://github.com/deepsh3969/FreshTrack"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="FreshTrack on GitHub" /></a>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:8B5CF6&amp;height=90&amp;section=footer" alt="Section divider" />
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepsh3969&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub stats" />
@@ -238,7 +304,7 @@
  FEED_URL = #
 -->
 
-## 🏆 Hacktoberfest
+## 🏆 Open Source & Hacktoberfest
 
 <div align="center">
   <a href="https://www.holopin.io/@deepsh3969">
@@ -267,7 +333,7 @@
  </table>
 -->
 
-## 💡 Random Dev Quote
+## 💡 Random Developer Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Random developer quote" />
@@ -294,3 +360,5 @@
 <img src="https://komarev.com/ghpvc/?username=deepsh3969&amp;style=flat-square&amp;color=blue" alt="Profile views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:8B5CF6&amp;height=100&amp;section=footer" alt="Footer wave" />
