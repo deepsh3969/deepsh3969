@@ -31,7 +31,7 @@
 
   <h1>Hi, I'm Deepesh 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+Full-Stack+Web+Apps;Exploring+AI+%26+Computer+Vision;B.Tech+Computer+Engineering+Student;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+Full-Stack+Web+Apps;Exploring+AI+%26+Computer+Vision;B.Tech+Computer+Engineering+Student;Always+Learning+Something+New" alt="Typing introduction" />
 
   <p>
     B.Tech Computer Engineering student building <b>full-stack web applications</b><br />
@@ -209,8 +209,8 @@
     <img src="https://img.shields.io/badge/Hacktoberfest-Holopin%20badge%20board-e6532d?style=for-the-badge" alt="Hacktoberfest Holopin badge board" />
   </a>
   <br />
-  <sub>Hacktoberfest badges earned will appear on my Holopin board. The section is kept
-  honest - no badge is shown before it is actually earned.</sub>
+  <sub>Hacktoberfest badges will appear on this board once they are earned - nothing
+  is displayed before it actually exists.</sub>
 </div>
 
 ## 🏅 Certifications
@@ -252,7 +252,9 @@
 </div>
 
 <div align="center">
-  <sub>Thanks for visiting my profile! 🚀</sub>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=deepsh3969&amp;style=flat-square&amp;color=blue" alt="Profile views" />
+
+### Thanks for visiting my profile! 🚀
+
+<img src="https://komarev.com/ghpvc/?username=deepsh3969&amp;style=flat-square&amp;color=blue" alt="Profile views" />
+
 </div>
